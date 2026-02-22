@@ -123,4 +123,4 @@ Ziad Kandil
 
 ## Acknowledgments
 
-Developed as part of MSc Mathematical Engineering coursework in Computational Fluid Dynamics.
+Developed as part of Fluid Labs coursework at Politecnico di Milano.
